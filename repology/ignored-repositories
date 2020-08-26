@@ -1,1 +1,9 @@
+##
+## You can disable the repositories for the repology check here. 
+## E.g. Windows only repositories as appget might be disabled as 
+## they might include windows only versions. 
+## Furthermore repositories with a different versioning schema might
+## be disabled if they don't work well with our versions. 
+##
+
 appget

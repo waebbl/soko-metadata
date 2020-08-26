@@ -1,2 +1,89 @@
+##
+## You can disable the repology check for individual packages here. 
+## Just add the full atom of the package (e.g. x11-wm/xmonad) below 
+## disable repology warnings for this package.
+##
+
+#
+# A
+#
+
+
+
+#
+# D
+#
+
+
+
+#
+# G
+#
+
+
+
+#
+# J
+#
+
+
+
+#
+# K
+#
+
+
+
+#
+# L
+#
+
+
+
+#
+# M
+#
+
+
+
+#
+# N
+#
+
+
+
+#
+# P
+#
+
+
+
+#
+# R
+#
+
+
+
+#
+# S
+#
+
 sys-apps/inxi
 sys-auth/pambase
+
+#
+# V
+#
+
+
+
+#
+# W
+#
+
+
+
+#
+#X
+#
+
