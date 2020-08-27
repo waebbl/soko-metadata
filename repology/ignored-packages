@@ -52,6 +52,7 @@ dev-perl/Bio-DB-HTS
 
 net-misc/dropbox::void_x86_64
 net-p2p/mktorrent
+net-proxy/obfs4proxy::entware
 
 #
 # P
