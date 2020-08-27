@@ -51,6 +51,7 @@
 #
 
 net-misc/dropbox::void_x86_64
+net-p2p/mktorrent
 
 #
 # P
