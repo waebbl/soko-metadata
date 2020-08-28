@@ -62,7 +62,7 @@
 #dev-ruby
 #dev-scheme
 #dev-tcltk
-#dev-texlive
+dev-texlive
 #dev-util
 
 
