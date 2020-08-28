@@ -72,6 +72,7 @@ net-proxy/obfs4proxy::entware
 
 sys-apps/inxi
 sys-auth/pambase
+sys-libs/pam
 
 #
 # V
