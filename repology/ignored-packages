@@ -10,6 +10,10 @@
 
 app-emulation/distrobuilder
 
+app-forensics/afl::crux_35
+app-forensics/afl::rosa_2016_1
+app-forensics/afl::rosa_2019_1
+
 #
 # D
 #
