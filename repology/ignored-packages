@@ -53,6 +53,7 @@ media-gfx/fdm-materials::dports
 # N
 #
 
+net-dialup/cutecom::nix_unstable
 net-firewall/ufw
 net-misc/dropbox::void_x86_64
 net-p2p/mktorrent
