@@ -94,3 +94,10 @@ sys-libs/pam
 #
 
 x11-misc/xnots::wikidata
+x11-wm/blackbox::alpine_edge
+x11-wm/blackbox::homebrew
+x11-wm/blackbox::linuxbrew
+x11-wm/blackbox::nix_stable
+x11-wm/blackbox::nix_unstable
+x11-wm/blackbox::termux
+x11-wm/blackbox::void_x86_64
