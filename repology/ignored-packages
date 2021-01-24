@@ -18,6 +18,8 @@ app-forensics/afl::rosa
 # D
 #
 
+dev-ml/camomile::aur
+
 dev-perl/Bio-DB-HTS
 
 #
