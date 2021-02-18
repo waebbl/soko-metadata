@@ -7,6 +7,8 @@
 #
 # A
 #
+app-admin/stow::Cygwin
+
 app-crypt/libmd::DPorts
 
 app-emulation/distrobuilder
