@@ -1,6 +1,6 @@
 ##
-## You can disable the repology check for individual packages here. 
-## Just add the full atom of the package (e.g. x11-wm/xmonad) below 
+## You can disable the repology check for individual packages here.
+## Just add the full atom of the package (e.g. x11-wm/xmonad) below
 ## disable repology warnings for this package.
 ##
 
@@ -17,6 +17,8 @@ app-forensics/afl::crux
 app-forensics/afl::rosa
 
 app-misc/ca-certificates::crux
+
+app-text/xiphos::opensuse_education_tumbleweed
 
 #
 # D
