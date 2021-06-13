@@ -29,6 +29,8 @@ dev-ml/core::aur
 
 dev-perl/Bio-DB-HTS
 
+dev-vcs/git-flow::void_x86_64
+
 #
 # G
 #
