@@ -16,6 +16,8 @@ app-emulation/distrobuilder
 app-forensics/afl::crux
 app-forensics/afl::rosa
 
+app-forensics/radamsa::fedora_rawhide
+
 app-misc/ca-certificates::crux
 
 app-text/xiphos::opensuse_education_tumbleweed
