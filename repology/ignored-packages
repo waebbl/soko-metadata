@@ -101,6 +101,8 @@ sys-auth/pambase
 sys-devel/autoconf-wrapper
 sys-libs/pam
 
+sys-libs/blocksruntime-20181028
+
 #
 # V
 #
