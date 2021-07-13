@@ -68,6 +68,7 @@ games-action/supermariowar
 media-fonts/fonts-meta
 media-gfx/darktable-3.4.1.1
 media-gfx/fdm-materials::dports
+>=media-sound/easyeffects-6.0.0
 
 #
 # N
