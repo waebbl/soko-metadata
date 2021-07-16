@@ -96,6 +96,7 @@ net-p2p/mktorrent
 # S
 #
 
+sys-apps/flashrom::altsisyphus
 sys-apps/inxi
 sys-auth/pambase
 sys-devel/autoconf-wrapper
