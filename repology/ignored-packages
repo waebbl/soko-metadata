@@ -29,6 +29,8 @@ app-text/xiphos::opensuse_education_tumbleweed
 # D
 #
 
+dev-lua/lua_cliargs-3.0_p2-r100
+
 dev-ml/camomile::aur
 dev-ml/core::aur
 
