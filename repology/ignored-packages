@@ -12,6 +12,7 @@ app-admin/stow::Cygwin
 app-crypt/libmd::DPorts
 
 app-dicts/aspell-eo-2.1.20000225.2
+app-dicts/aspell-gl-0.5.2
 
 app-emulation/distrobuilder
 
