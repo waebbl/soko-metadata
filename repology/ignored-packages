@@ -11,6 +11,8 @@ app-admin/stow::Cygwin
 
 app-crypt/libmd::DPorts
 
+app-crypt/libu2f-host::slackbuilds
+
 app-dicts/aspell-eo-2.1.20000225.2
 app-dicts/aspell-gl-0.5.2
 
