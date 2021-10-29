@@ -25,6 +25,7 @@ app-forensics/radamsa::fedora_rawhide
 
 app-misc/ca-certificates::crux
 
+app-text/xiphos::opensuse_tumbleweed
 app-text/xiphos::opensuse_education_tumbleweed
 
 #
