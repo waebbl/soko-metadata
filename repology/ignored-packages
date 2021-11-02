@@ -16,6 +16,8 @@ app-crypt/libu2f-host::slackbuilds
 app-dicts/aspell-eo-2.1.20000225.2
 app-dicts/aspell-gl-0.5.2
 
+app-editors/aee-2.2.22
+
 app-emulation/distrobuilder
 
 app-forensics/afl::crux
