@@ -25,6 +25,8 @@ app-forensics/afl::rosa
 
 app-forensics/radamsa::fedora_rawhide
 
+app-i18n/uim-1.8.9.b.20210104
+
 app-misc/ca-certificates::crux
 
 app-text/xiphos::opensuse_tumbleweed
