@@ -26,6 +26,7 @@ app-forensics/afl::rosa
 app-forensics/radamsa::fedora_rawhide
 
 app-i18n/uim-1.8.9.b.20210104
+app-i18n/zinnia-0.07
 
 app-misc/ca-certificates::crux
 
