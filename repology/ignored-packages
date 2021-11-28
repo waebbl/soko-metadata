@@ -137,6 +137,9 @@ sys-libs/blocksruntime-20181028
 #
 
 x11-misc/xnots::wikidata
+
+x11-themes/murrine-themes::slackbuilds
+
 x11-wm/blackbox::alpine_edge
 x11-wm/blackbox::homebrew
 x11-wm/blackbox::linuxbrew
