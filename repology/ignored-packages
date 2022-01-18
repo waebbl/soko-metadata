@@ -93,6 +93,7 @@ net-firewall/ufw
 net-irc/ircii::slackbuilds
 net-misc/dropbox::void_x86_64
 net-misc/nextcloud-client::winget
+net-misc/youtube-dl-2021.12.27::t2
 net-p2p/mktorrent
 
 #
