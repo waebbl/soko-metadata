@@ -44,6 +44,8 @@ app-text/xiphos::opensuse_education_tumbleweed
 # D
 #
 
+dev-libs/cyberjack-3.99.5_p15
+
 dev-lua/lua_cliargs-3.0_p2-r100
 dev-lua/say-1.3_p1-r101
 
