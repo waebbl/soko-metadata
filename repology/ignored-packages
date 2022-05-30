@@ -122,6 +122,8 @@ net-p2p/mktorrent
 # S
 #
 
+sci-electronics/NanoVNA-QT::gentoo_ovl_pentoo
+
 sys-apps/flashrom::altsisyphus
 sys-apps/inxi
 sys-auth/pambase
