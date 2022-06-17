@@ -128,8 +128,6 @@ sys-apps/flashrom::altsisyphus
 sys-apps/inxi
 sys-auth/pambase
 
-sys-cluster/singularity::debian_experimental
-
 sys-devel/autoconf-wrapper
 sys-libs/pam
 
