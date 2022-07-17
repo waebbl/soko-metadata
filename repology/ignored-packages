@@ -126,6 +126,8 @@ sci-electronics/NanoVNA-QT::gentoo_ovl_pentoo
 
 sys-apps/flashrom::altsisyphus
 sys-apps/inxi
+sys-apps/memtest86+::openmandriva_cooker
+
 sys-auth/pambase
 
 sys-devel/autoconf-wrapper
