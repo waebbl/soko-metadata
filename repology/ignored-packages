@@ -10,8 +10,6 @@
 app-admin/stow::Cygwin
 app-admin/sl-5.05
 
-app-containers/apptainer-1.1.0::opensuse_tumbleweed
-
 app-crypt/libmd::DPorts
 
 app-crypt/libu2f-host::slackbuilds
