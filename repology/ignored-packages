@@ -9,6 +9,7 @@
 #
 app-admin/stow::Cygwin
 app-admin/sl-5.05
+app-admin/sysstat-12.6.1
 
 app-crypt/libmd::DPorts
 
