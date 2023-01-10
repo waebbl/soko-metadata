@@ -92,6 +92,7 @@ games-action/supermariowar
 #
 
 media-fonts/fonts-meta
+media-gfx/alembic-1.9.0
 media-gfx/fdm-materials::dports
 media-sound/pulseeffects
 
